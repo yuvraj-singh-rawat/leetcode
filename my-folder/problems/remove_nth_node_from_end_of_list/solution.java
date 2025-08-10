@@ -10,23 +10,27 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy = new ListNode(0); // dummy node
+        // Create a dummy node before head to handle edge cases
+        ListNode dummy = new ListNode(0);
         dummy.next = head;
 
         ListNode fast = dummy;
         ListNode slow = dummy;
 
+        // Move fast pointer n+1 steps ahead to create a gap
         for (int i = 0; i <= n; i++) {
             fast = fast.next;
         }
 
+        // Move both fast and slow until fast reaches the end
         while (fast != null) {
             fast = fast.next;
             slow = slow.next;
         }
 
+        // Remove the nth node from end
         slow.next = slow.next.next;
 
-        return dummy.next;
+        return dummy.next; // new head
     }
 }
