@@ -4,7 +4,8 @@ class Solution {
         int count = 0;
         int element = -1;
 
-        for (int i: nums) {
+        // Phase 1: find the element
+        for (int i : nums) {
             if (count == 0) {
                 element = i;
                 count = 1;
@@ -15,6 +16,7 @@ class Solution {
             }
         }
 
+        // Phase 2: checking if the stored element is actually appears more than N/2 times
         int counter = 0;
         for (int i : nums) {
             if (i == element) {
@@ -22,7 +24,7 @@ class Solution {
             }
         }
 
-        if (counter > (n/2)) {
+        if (counter > (n / 2)) {
             return element;
         } else {
             return -1;
