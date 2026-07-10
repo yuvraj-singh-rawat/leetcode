@@ -7,7 +7,6 @@ class Solution {
         int count2 = 0;
         int maj2 = 0;
 
-        // 1st Pass: Find potential candidates
         for (int num : nums) {
             if (num == maj1) {
                 count1++;
@@ -25,7 +24,6 @@ class Solution {
             }
         }
 
-        // 2nd Pass: Verify actual counts
         count1 = 0;
         count2 = 0;
         for (int num : nums) {
@@ -33,7 +31,6 @@ class Solution {
             else if (num == maj2) count2++;
         }
 
-        // Prepare result list
         List<Integer> result = new ArrayList<>();
         if (count1 > n/3) result.add(maj1);
         if (count2 > n/3) result.add(maj2);
