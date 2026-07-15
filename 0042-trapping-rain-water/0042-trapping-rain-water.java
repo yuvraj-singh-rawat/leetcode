@@ -10,15 +10,20 @@ class Solution {
 
         int totalWater = 0;
 
-        while (left < right) {
-            leftMax = Math.max(leftMax, height[left]);
-            rightMax = Math.max(rightMax, height[right]);
-
-            if (leftMax < rightMax) {
-                totalWater += leftMax - height[left];
+        while (left <= right) {
+            if (height[left] <= height[right]) {
+                if (height[left] >= leftMax) {
+                    leftMax = height[left];
+                } else {
+                    totalWater += leftMax - height[left];
+                }
                 left++;
             } else {
-                totalWater += rightMax - height[right];
+                if (height[right] >= rightMax) {
+                    rightMax = height[right];
+                } else {
+                    totalWater += rightMax - height[right];
+                }
                 right--;
             }
         }
