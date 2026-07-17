@@ -33,8 +33,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
