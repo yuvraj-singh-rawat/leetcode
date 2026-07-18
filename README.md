@@ -42,4 +42,13 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
