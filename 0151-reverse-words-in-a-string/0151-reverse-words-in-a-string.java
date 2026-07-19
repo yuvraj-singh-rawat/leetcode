@@ -19,7 +19,7 @@ class Solution {
                 j--;
             }
 
-            ans.append(s.substring(j+1, i+1));
+            ans.append(s, j+1, i+1);
 
             while (j >= 0 && s.charAt(j) == ' ') {
                 j--;
