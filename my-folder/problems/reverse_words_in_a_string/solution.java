@@ -1,38 +1,36 @@
 class Solution {
     public String reverseWords(String s) {
-        int left = 0;
-        int right = s.length() - 1;
-
-        // Trim leading and trailing spaces
-        while (left <= right && s.charAt(left) == ' ') left++;
-        while (right >= left && s.charAt(right) == ' ') right--;
-
-        String temp = "";
         StringBuilder ans = new StringBuilder();
 
-        while (left <= right) {
-            char ch = s.charAt(left);
+        int i = s.length() - 1;
 
-            if (ch != ' ') {
-                temp += ch; // Collect characters for the current word  
-            } else if (ch == ' ' && !temp.isEmpty()) {
-                // Once we encounter a space, prepend the word to `ans`
-                if (ans.length() > 0) {
-                    ans.insert(0, " ");
-                }
-                ans.insert(0, temp);
-                temp = "";  // Reset temp for the next word
+        while (i >= 0) {
+            while (i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
-            left++;
-        }
 
-        // Append the last word
-        if (!temp.isEmpty()) {
-            if (ans.length() > 0) {
-                ans.insert(0, " ");
+            if (i < 0) {
+                break;
+            }
+
+            int j = i;
+
+            while (j >= 0 && s.charAt(j) != ' ') {
+                j--;
+            }
+
+            ans.append(s, j+1, i+1);
+
+            while (j >= 0 && s.charAt(j) == ' ') {
+                j--;
+            }
+
+            if (j >= 0) {
+                ans.append(" ");
+            }
+
+            i = j;
         }
-        ans.insert(0, temp);
-	}
-	return ans.toString();
+        return ans.toString();
     }
 }
