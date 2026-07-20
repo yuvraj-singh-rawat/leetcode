@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
