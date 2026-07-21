@@ -28,6 +28,7 @@
 | [0018-4sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
