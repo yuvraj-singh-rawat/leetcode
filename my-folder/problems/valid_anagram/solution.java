@@ -2,13 +2,23 @@ class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) return false;
 
-        HashMap<Character, Integer> countS = new HashMap<>();
-        HashMap<Character, Integer> countT = new HashMap<>();
+        int[] freq = new int[26];
 
-        for (int i = 0; i < s.length(); i++) {
-            countS.put(s.charAt(i), countS.getOrDefault(s.charAt(i), 0) + 1);
-            countT.put(t.charAt(i), countT.getOrDefault(t.charAt(i), 0) + 1);
+        for (int ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
-        return countS.equals(countT);
-    }
+
+        for (int ch : t.toCharArray()) {
+            freq[ch - 'a']--;
+        }
+
+        for (int val : freq) {
+            if (val != 0) {
+                return false;
+            }
+        }
+
+        return true;
+
+    }  
 }
