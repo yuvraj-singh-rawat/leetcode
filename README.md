@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
@@ -48,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
