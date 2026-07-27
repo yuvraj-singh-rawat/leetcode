@@ -38,6 +38,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
