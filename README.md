@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -132,6 +133,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -145,6 +147,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
