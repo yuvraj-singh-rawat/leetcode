@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -58,12 +59,14 @@
 | [0020-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
