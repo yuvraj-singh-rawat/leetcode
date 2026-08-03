@@ -180,4 +180,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
