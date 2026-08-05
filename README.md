@@ -87,6 +87,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -122,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 <!---LeetCode Topics End-->
