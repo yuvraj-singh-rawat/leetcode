@@ -201,4 +201,8 @@
 |  |
 | ------- |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
