@@ -3,23 +3,20 @@ class Solution {
         int n = s.length();
         int count = 0;
         for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (isPalindrome(s, i, j)) {
-                    count++;
-                }
-            }
+            count += expand(s, i, i); // Odd length
+            count += expand(s, i, i + 1); // Even length
         }
         return count;
     }
 
-    private static boolean isPalindrome(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
-            }
-            left++;
-            right--;
+    private static int expand(String s, int left, int right) {
+        int count = 0;
+
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            count++;
+            left--;
+            right++;
         }
-        return true;
+        return count;
     }
 }
