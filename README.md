@@ -36,6 +36,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -60,6 +61,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
