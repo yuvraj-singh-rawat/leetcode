@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
