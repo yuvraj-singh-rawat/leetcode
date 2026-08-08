@@ -30,6 +30,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -175,6 +176,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
