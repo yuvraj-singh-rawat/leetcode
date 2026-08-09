@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -188,6 +189,7 @@
 | [0328-odd-even-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
