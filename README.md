@@ -19,6 +19,7 @@
 | [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
@@ -144,6 +146,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
