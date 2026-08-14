@@ -108,6 +108,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -150,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -230,6 +232,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Manacher
 |  |
