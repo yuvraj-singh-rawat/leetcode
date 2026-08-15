@@ -21,6 +21,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -242,4 +243,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
