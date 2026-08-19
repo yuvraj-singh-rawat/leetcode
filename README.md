@@ -249,4 +249,8 @@
 | ------- |
 | [0136-single-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
