@@ -151,6 +151,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
@@ -200,6 +201,7 @@
 | [0061-rotate-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
