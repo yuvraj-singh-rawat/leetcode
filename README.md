@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0056-merge-intervals) |
@@ -238,6 +239,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
