@@ -21,6 +21,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
@@ -248,6 +249,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
