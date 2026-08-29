@@ -132,6 +132,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -277,4 +279,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
