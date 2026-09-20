@@ -27,6 +27,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -262,6 +263,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
