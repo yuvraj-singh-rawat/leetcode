@@ -123,6 +123,7 @@
 | [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0796-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -173,6 +174,7 @@
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
+| [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -263,6 +265,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
