@@ -34,6 +34,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1260-shift-2d-grid) |
+| [2643-row-with-maximum-ones](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
