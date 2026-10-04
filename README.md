@@ -90,6 +90,7 @@
 | [0042-trapping-rain-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0234-palindrome-linked-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +127,7 @@
 | [0344-reverse-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +304,7 @@
 | [0020-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Newton's Method
 |  |
 | ------- |
