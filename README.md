@@ -22,6 +22,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@
 | [0148-sort-list](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +148,7 @@
 | [0002-add-two-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -180,6 +183,7 @@
 | [0205-isomorphic-strings](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [0981-time-based-key-value-store](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -270,6 +274,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0704-binary-search) |
@@ -297,6 +302,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bracket Sequences
 |  |
