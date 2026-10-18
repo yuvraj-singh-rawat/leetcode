@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj-singh-rawat/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
